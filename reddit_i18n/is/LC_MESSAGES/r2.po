@@ -106,11 +106,11 @@ msgstr ""
 
 #: r2/controllers/api.py:1637
 msgid "claimed! now go to someone's userpage and give them a present!"
-msgstr ""
+msgstr "Beðið! Nú fara á notandasíðu einhvers og gefa þeim gjöf!"
 
 #: r2/controllers/api.py:1642
 msgid "claimed!"
-msgstr ""
+msgstr "Beðið!"
 
 #: r2/controllers/api.py:1658
 msgid "an email will be sent to that account's address shortly"
@@ -118,19 +118,19 @@ msgstr "tölvupóstur verður sendur á skráð netfang innan skamms"
 
 #: r2/controllers/api.py:1660
 msgid "try again tomorrow"
-msgstr ""
+msgstr "reyna aftur á morgun"
 
 #: r2/controllers/api.py:1905 r2/controllers/api.py:2066
 msgid "invalid css class"
-msgstr ""
+msgstr "ógilt css bekknum"
 
 #: r2/controllers/api.py:1908 r2/controllers/api.py:2069
 msgid "too many css classes"
-msgstr ""
+msgstr "of margir css flokkum"
 
 #: r2/controllers/api.py:2085
 msgid "max flair templates reached"
-msgstr ""
+msgstr "hámark sniðmát hæfileiki náð"
 
 #: r2/controllers/api.py:2303
 msgid "redirecting..."
@@ -213,11 +213,11 @@ msgstr "þetta notandanafn er í notkun"
 
 #: r2/controllers/errors.py:34
 msgid "that username is taken by a deleted account"
-msgstr ""
+msgstr "Þetta notendanafn er tekið með eytt reikningi"
 
 #: r2/controllers/errors.py:35
 msgid "you can't send to a user that you have blocked"
-msgstr ""
+msgstr "Þú getur ekki sent til notanda sem þú hefur lokað"
 
 #: r2/controllers/errors.py:36
 msgid "id not specified"
@@ -229,7 +229,7 @@ msgstr "þú getur ekki gert þetta"
 
 #: r2/controllers/errors.py:38
 msgid "you are not logged in as that user"
-msgstr ""
+msgstr "Þú ert ekki innskráður sem þessi notandi"
 
 #: r2/controllers/errors.py:39
 msgid "the link you are commenting on has been deleted"
